@@ -3064,6 +3064,7 @@ p {
         align-items: center;
         position: relative;
         justify-content: space-between;
+        height: 220px;
     }
 
     .section7-block-bottom h2 {
@@ -3094,7 +3095,6 @@ p {
         box-shadow: 2px 2px 6px 2px var(--antiflashwhite);
         top: 10px;
         width: 150px;
-        margin-left: 2%;
         height: 200px;
     }
 
